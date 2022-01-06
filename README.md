@@ -1,4 +1,4 @@
-# Traffic Accidents Emergency Dispatch Prediction
+# Traffic Accidents Emergency Resource Dispatch Prediction
 
 A traffic accident casualty prediction model using Python
 
