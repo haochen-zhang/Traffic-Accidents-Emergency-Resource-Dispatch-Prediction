@@ -11,19 +11,19 @@ Introduction video: https://www.youtube.com/watch?v=uQ3aD4Z9xSw
 - Model
 - Results
 - Contributors
-- Further
+- Further Information
 
-### Background
+## Background
 
 In a modern era, it is undeniable that a city’s transportation system is an essential element of human civilization, improving human living standards and contributing to the economic growth of a city.  What comes with an ever-growing reliance on urban transportation is an increase in road accidents. As such, road accidents have been actively studied because of the growing demand for safety conditions and prevention strategies in the hopes of reducing the impact of accidents on road-users and vehicles. Our study aims to develop a model that predicts harmful accidents in New York City, the most congested city in the United States. According to the NYPD records, in 2019, the Big Apple saw over two-hundred thousand collisions, as shown in this animation. And despite this number declined by 46% during the year of pandemic, there were still an average of 303 car accidents on the city’s street every single day in 2020. A considerable amount of accidents would inevitably places greater demands on the police and medical resources. As such, efficient dispatch of police officers, ambulances, and medical workers relies heavily on predictions of accident harmfulness to save more lives and reduce the severity of  an accident. With this real-world application in mind, we propose the question that at what time, location, weather, and collision conditions that a harmful accident is likely to occur in new york city. 
 
-### Data Resource
+## Data Resource
 - <a href= "https://data.cityofnewyork.us/Public-Safety/Motor-Vehicle-Collisions-Crashes/h9gi-nx95">NYC Traffic Accidents</a> 
 - <a href= "https://data.cityofnewyork.us/Transportation/VZV_Speed-Limits/7n5j-865y">Speed Limits of NYC Street</a> 
 - <a href= "https://www.ncei.noaa.gov/maps/lcd/">Weather dataset</a> 
 - <a href= "https://www.ncei.noaa.gov/maps/lcd/">National Centers for Environmental Information</a> 
 
-### EDA
+## EDA
 
 To answer our research question, we draw data from NYC Open Data, the NYC Police Department records on traffic accident, and use a substantial dataset of vehicle collisions from March, 2019, to March, 2021.  Predictors from this dataset include the number of cars involved in an accident, the 5 different boroughs of new york city, the time when an accident occured, which is included in the model as  a 3-hour interval, the speed limit of the street where an accident occured, 6 categories of contributing factors recorded by the police, and four categories of different car types involved in the accident. 
 
@@ -51,7 +51,7 @@ Finally, given the goal of our study is to predict whether an accident is harmfu
 
 <br />
 
-### Model
+## Model
 
 After training a bunch of classification models including basic logistic regression, lasso-like logistic regression with and without interactions, decision tree model, and random forest model, we detected that the random forest model with all predictors yields the lowest negative false rate as shown in the figure. Although we acknowledge the fact that this model doesn’t generate the highest accuracy score as shown in the bottom figure, We decided to use false negative rate as the metric for model selection because we believe in the context of car accidents and given the real-world application of this model is to dispatch police and medical resources efficiently to accidents that most needed, it is essential to have low  FNR—that is, a lower chance of predicting an accident as harmless when in reality that this certain accident is harmful. Also, as demonstrated by the plot precision-recall curves, we can see the area under the light green curve is relative high, indicating the selected model’s better performance than others. As such, we proceed our prediction analysis with the random forest model.
 
@@ -69,7 +69,7 @@ After training a bunch of classification models including basic logistic regress
   
 </p>
 
-### Results
+## Results
 
 To better understand the model predictions, we display the relative risk of harmful accidents by zip code of NYC (predictions generated from the test set). As we can see from the map, our model predicts that harmful accidents are mostly likely to occur in Staten Island and least likely to occur in Manhattan. This could be the case because although Manhattan tends to have heavy traffic flow, the speed limit is low. As we learned from the output of our model, speed limit is positively related to casualty. This means that it is likely in Staten Island the speed limit is high as the traffic flow is not that heavy as compared to that in Manhattan or Queens. It is also worth noting that some specific areas in Brooklyn and the Bronx are at high risk of harmful accidents as well.
 
@@ -89,12 +89,12 @@ As discussed in the introduction, the ultimate goal of our model is for a scenar
   
 </p>
 
-### Contributors
+## Contributors
 This project exists thanks to all the people who contribute.
 
 <a href="https://github.com/mirahx24"><img src='https://avatars.githubusercontent.com/u/14883017?v=4' height="40" width="40"></a>
    <a href="https://github.com/sungwhan1990"><img src='https://avatars.githubusercontent.com/u/70632710?v=4' height="40" width="40"></a>
    <a href="https://github.com/tiffanyy2019"><img src='https://avatars.githubusercontent.com/u/54950062?v=4' height="40" width="40"></a>
    
-### Further
+## Further Information
 If you are looking for detailed information, see final report in repository.
