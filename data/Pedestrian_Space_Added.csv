@@ -1,0 +1,61 @@
+Name,Boro,CB,On street:,Cross-street 1:,Cross-street 2:,Area (sf),Area (acres),Project Type
+Fulton St/East New York Ave,BK,5,Fulton St/Herkimer St,East New York Ave,Fulton St,1000,0.023,Planted median/ pedestrian refuge
+East New York Ave/Atlantic Ave,BK,5,East New York Ave,Atlantic Ave,Junius Ave,1950,0.045,Curb extension
+Neptune Ave/West 19th St,BK,13,Neptune Ave,West 19th St,West 20th St,400,0.009,Planted median/ pedestrian refuge
+"Hell's Kitchen, 36th & 9th Canoe",M,4,9 Av/Dyer Av,W 36 St,Ramp C,10168,0.233,Pedestrian Plaza w/ plantings
+"Hell's Kitchen, 41st & 9th",M,4,9 Av,W 41 St,--,700,0.016,2 painted curb extensions
+181st St Congested Corridors,M,12,Haven Av,W 181 St,--,429,0.01,Concrete curb extension
+Woodhaven Blvd Congested Corridors,Q,4,Woodhaven Blvd,Exit to WB LIE,Queens Blvd south service road,1250,0.029,Curb extension w/ truffle paint
+Woodhaven Blvd Congested Corridors,Q,4,Woodhaven Blvd,Queens Blvd south service road,--,620,0.014,Expanded median w/ truffle paint
+Woodhaven Blvd Congested Corridors,Q,4,Woodhaven Blvd,Queens Blvd south service road,Hoffman Dr,459,0.011,Curb extension w/ truffle paint
+Woodhaven Blvd Congested Corridors,Q,6,Woodhaven Blvd,Wetherole St,--,1843,0.042,Expanded median w/ truffle paint
+Woodhaven Blvd Congested Corridors,Q,6,Woodhaven Blvd,Wetherole St,--,901,0.021,Curb extension w/ truffle paint
+Woodhaven Blvd Congested Corridors,Q,6,Woodhaven Blvd,60 Dr,--,320,0.007,Curb extension w/ truffle paint
+Woodhaven Blvd Congested Corridors,Q,6,Woodhaven Blvd,Eliot Av,--,2448,0.056,2 curb extensions w/ truffle paint
+Church Ave Congested Corridors,BK,12,Church Ave,Beverley Rd,--,2270,0.052,Concrete plaza and sidewalk extensions
+Church Ave Congested Corridors,BK,14,Coney Island Ave,Albemarle Rd,--,270,0.006,Concrete median/ pedestrian refuge
+Church Ave Congested Corridors,BK,14,Church Ave,Ocean Ave,--,320,0.007,Planted median/ pedestrian refuge
+White Plans Rd Congested Corridors,BX,11,White Plains Rd,Unionport Rd,--,200,0.005,Concrete curb extension
+White Plans Rd Congested Corridors,BX,11,Unionport Rd,Van Nest Ave,Meade St,21315,0.489,Street closed to traffic; park expanded
+White Plans Rd Congested Corridors,BX,11,White Plains Road,Sagamore St,Cruger Ave,3660,0.084,Raised pedestrian island w/plantings
+White Plans Rd Congested Corridors,BX,11,White Plains Road,Sagamore St,Birchall Ave,870,0.02,Raised concrete pedestrian island
+White Plans Rd Congested Corridors,BX,11,Birchall Ave,Sagamore St,--,1472,0.034,Concrete curb extension
+White Plans Rd Congested Corridors,BX,11,Boston Rd,Thwaits Pl,--,360,0.008,Planted median/ pedestrian refuge
+Downtown Flushing Mobility & Safety Project,Q,7,Main Street,Roosevelt Avenue,39th Street,1260,0.029,Curb and sidewalk Extension
+Downtown Flushing Mobility & Safety Project,Q,7,Northern Blvd,Union Street,--,120,0.003,Curb Extension
+Eastern Parkway/Saratoga Avenue & Sterling Pl,Bk,16,Eastern Parkway,Saratoga Avenue,Sterling Place,3035,0.07,2 Concrete median Extensions/5 neckdowns
+Woodhaven Blvd Congested Corridors,Q,9,Woodhaven Blvd SB service road,85 Rd,--,45,0.001,Service road median extension w/truffle paint
+Woodhaven Blvd Congested Corridors,Q,9,Woodhaven Blvd SB service road,86 Rd,--,441,0.01,Service road median extension w/truffle paint
+Woodhaven Blvd Congested Corridors,Q,9,Woodhaven Blvd SB service road,89 Av,--,297,0.007,Service road median extension w/truffle paint
+Woodhaven Blvd Congested Corridors,Q,9,Woodhaven Blvd NB service road,85 Rd,--,541,0.012,Service road median extension w/truffle paint
+Woodhaven Blvd Congested Corridors,Q,9,Woodhaven Blvd NB service road,86 Rd,--,1178,0.027,Service road median extension w/truffle paint
+Woodhaven Blvd Congested Corridors,Q,9,Woodhaven Blvd NB service road,89 Av,--,280,0.006,Service road median extension w/truffle paint
+Woodhaven Blvd Congested Corridors,Q,9,Woodhaven Blvd NB service road,91 Av,--,122,0.003,Service road median extension w/truffle paint
+Gun Hill Rd Congested Corridors,BX,7,East Gun Hill Road,Jerome Avenue,--,990,0.023,Concrete Island
+Gun Hill Rd Congested Corridors,BX,7,East Gun Hill Road,Olinville Avenue,--,1150,0.026,3 Concrete Curb Extensions
+Broadway/Dyckman,M,12,Riverside Dr,Broadway,--,73,0.002,Concrete median extension
+Broadway/Dyckman,M,12,Riverside Dr,Broadway,--,723,0.017,Expanded concrete triangular island
+Broadway/Dyckman,M,12,Broadway,Dyckman St,--,145,0.003,Concrete curb extension SE corner
+Broadway/Dyckman,M,12,Broadway,Dyckman St,--,108,0.002,Concrete curb extension NE corner
+Mt. Eden Ave and Walton Av,Bx,4,Mt.Eden Avenue,Walton Ave,--,1984,0.046,1 concrete median/curb extensions/1 neckdown
+Flatbush Avenue Congested Corridors,Bk,9,Flatbush Av,Ocean Av,Empire Blvd,450,0.01,Raised concrete curb extension NE corner
+Flatbush Avenue Congested Corridors,Bk,9,Flatbush Av,Washington Av,Lincoln Rd,600,0.014,Corner curb extension w/truffle paint
+33rd Street Plaza,M,5,W 33 St,7 Ave,8 Ave,1200,0.028,Pedestrian Plaza
+33rd Street Plaza,M,5,7 Ave,W 31 St,W 33 St,740,0.017,2 Corner curb extensions w/truffle paint
+Varick St and Houston St,M,2,Varick St,Houston St,-,650,0.015,Corner curb extension w/truffle paint
+East New York Ave and Junius St,BK,16,East New York Ave,Junius St,Pacific St,245,0.006,Median extension
+East New York Bus Depot,BK,5,Alabama Ave,East New York Ave,Fulton St,850,0.02,Curb extension
+East New York Bus Depot,BK,5,Georgia Ave,Jamaica Ave,Fulton St,2420,0.056,Curb extension and median widening
+East New York Bus Depot,BK,5,East New York Ave,Alabama Ave,Fulton St,150,0.003,Median extension
+Edgemere Ave,Q,,Edgemere Ave,B 38th St,B 32nd St,21660,0.4972451791,Sidewalk creation and reconstruction
+Rockaway Blvd and Guy R. Brewer Blvd,Q,13,Rockaway Blvd,N Boundary Rd,Guy R Brewer Blvd,2750,0.06312,"Installing 3 concrete islands, walkway, ped. crossings/ADA ramps, median tip with ped. refuge, extending left turn lane,  installing ped. signals/reallocating poles"
+Richmond Rd and Amboy Rd,SI,2,Amboy Rd,Richmond Rd,,650,0.0149,Installed painted neckdown
+"Forest Avenue, South Ave to Willowbrook Rd",SI,1,Forest Ave,Maple Parkway,Van Pelt Ave,1050,0.0214,"Installing 2 concrete islands, ped. crossings/ADA ramps, & median tip with ped. refuge."
+"11th Ave, 42nd St to 44th St",M,4,11th Ave,42nd St,44th St,2430,0.05578,Installed 6 pedestrain concrete medians on the north side and south side of three intersections
+Hylan Blvd / Narrows Rd S,SI,2,Hylan Boulevard,Olga Pl,Legion Pl,4670,0.1072084481,"One-way conversion, roadway restriping, signal bagged"
+92nd St and Dahlgren Pl,K,10,92nd St,Gatling Pl,Dahlgren Pl,0,0,Signal timing and phasing changes
+142nd St and Van Wyck Expwy SR,Q,12,142nd St,Van Wyck Expwy SR E,104th Av,0,0,"One-way conversion, closed existing slip ramp"
+Atlantic Ave and Boerum Pl,,,Boerum Pl,Atlantic Ave,State St,214,0.0049,Removed superfluous island and widened the median refuge island
+"11th Ave, 42nd St to 59th St",M,4,11 Ave,W 42 St,W 59 St,8751,0.201,"Conversion to one-way; Parking protected bike lane; bus boarding islands, other ped islands and neckdowns."
+"Murdock Ave, Dunkirk St to Farmers Blvd",Q,12,Murdock Av,Ovid Pl,Farmers Blvd,0,0,"Installed flush median, one-way conversion"
+"Boerum St, Broadway to Manhattan Ave",K,1,Boerum St,Broadway,Lorimer St,150,0.003,Slip Closure  and lane/parking alignment
